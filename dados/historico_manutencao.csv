@@ -1,0 +1,2 @@
+chave_banco;data_inicio;data_fim;tipo_manutencao;origem;regra_aplicada;status;mensagem
+dpg-daq55uflot8c73fctnu0-a.oregon-postgres.render.com:5432/oficina_db_gry8;2026-10-03T22:09:40.892078500;2026-10-03T22:09:45.031913;VACUUM FULL ANALYZE;AUTOMATICA;Nenhuma manutenção anterior registrada.;SUCESSO;VACUUM FULL ANALYZE executado com sucesso.
